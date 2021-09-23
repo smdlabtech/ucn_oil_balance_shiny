@@ -1,6 +1,6 @@
-# Analyse du Bilan d'un Groupe Pétrolier de 1969 à 1984
-Les données étudiées sont issus des bilans annuels d’un groupe pétrolier sur la période 1969 à 1984. 
-Les postes de bilans suivant chaque année y sont bien décrits.
+# Analysis of the balance sheet of an Oil Group from 1969 to 1984 
+The data studied are taken from the annual balance sheets of an oil group over the period 1969 to 1984. 
+The balance items following each year are well described.
 
-L'étude de ce bilan a été réalisé suivant trois étapes :
-	Présentations des données --> Statistiques descriptives --> Réalisation d'une ACP (Analyse de Composante Principale) centrée réduite
+The study of this balance sheet was carried out in three stages:
+	Presentation of the data --> Descriptive statistics --> Realization of a PCA (Principal Component Analysis) centered reduced
