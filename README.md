@@ -17,8 +17,12 @@ library(FactoMineR)
 The study of this balance sheet was carried out in three stages:
 	Presentation of the data --> Descriptive statistics --> Realization of a PCA (Principal Component Analysis) centered reduced
 
-- [Presentation](#steps of analysis)
+- [Presentation of the data](#steps of analysis)
+<h2 id="install">Presentation of the data</h2>
+
 - [Descriptive](#steps of analysis)
+<h2 id="install">Installations</h2>
+
 - [PCA](#steps of analysis)
 
 
