@@ -61,10 +61,14 @@ Dans la suite de notre analyse, nous tenterons d'apporter des éléments de rép
 
 
 <h2 id="descriptive">Statistiques descriptives</h2>
+
 ```{r, echo=TRUE}
 summary(BD)
 ```
 
+Nous notons d'abord qu'il n'y a pas de symétrie des variables.
+Seulement nous avons les variables INT, LMT, NET, SUB et VRD qui ont des moyennes supérieures à leurs médianes respectives.
+Ce qui permet de dire qu'il y a plus de 50% des valeurs de chacune de ces variables respectives qui sont inférieures à leurs moyennes respectives.
 
 
 
