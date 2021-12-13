@@ -18,11 +18,13 @@ library(dplyr)
 library(FactoMineR)
 ```
 
+<h2 id="install">Presentation</h2>
+
 The study of this balance sheet was carried out in three stages:
 	Presentation of the data --> Descriptive statistics --> Realization of a PCA (Principal Component Analysis) centered reduced
 
 
-<h2 id="install">Presentation</h2>
+
 
 - [Descriptive](#steps of analysis)
 <h2 id="install">Installations</h2>
