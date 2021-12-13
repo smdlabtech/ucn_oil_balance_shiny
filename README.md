@@ -16,9 +16,13 @@ L'étude de ce bilan s'est déroulée en trois étapes :
 
 
 <h2 id="install">Installations</h2>
-Installez les librairies suivantes :
+Installation de packages et chargement :
 
 ```
+install.packages('knitr')
+install.packages('dplyr')
+install.packages('FactoMineR')
+
 library(knitr)
 library(dplyr)
 library(FactoMineR)
