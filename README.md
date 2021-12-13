@@ -7,7 +7,7 @@ L'étude de ce bilan s'est déroulée en trois étapes :
 - Statistiques descriptives
 - Réalisation d'une ACP (Analyse en Composantes Principales) centrée réduite
 
-# Table of contents
+# Table des matières
 - [installations](#install)
 - [présentation des données](#presentation)
 - [statistiques descriptives](#descriptive)
