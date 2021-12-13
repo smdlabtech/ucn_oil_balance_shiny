@@ -8,11 +8,11 @@ The study of this balance sheet was carried out in three stages:
 - Realization of a PCA (Principal Component Analysis) centered reduced
 
 # Table of contents
-- [Installations](#install)
-- [Presentation of the data](#presentation)
-- [Descriptive statistics](#descriptive)
-- [Realization of a PCA](#pca)
-- [Realization of a PCA](#sponsors)
+- [installations](#install)
+- [presentation of the data](#presentation)
+- [descriptive statistics](#descriptive)
+- [realization of a PCA](#pca)
+- [realization of a PCA](#sponsors)
 
 
 <h2 id="install">Installations</h2>
