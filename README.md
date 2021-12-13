@@ -9,7 +9,7 @@ L'étude de ce bilan s'est déroulée en trois étapes :
 - Statistiques descriptives
 - Réalisation d'une ACP
 
-# Table des matières
+# Etapes de rélisation
 - [installations](#install)
 - [présentation des données](#presentation)
 - [statistiques descriptives](#descriptive)
