@@ -24,7 +24,7 @@ library(dplyr)
 library(FactoMineR)
 ```
 
-<h2 id="presentation">Presentation</h2>
+<h2 id="presentation">Presentation of the data </h2>
 
 <h2 id="descriptive">Descriptive statistics</h2>
 
