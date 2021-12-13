@@ -24,7 +24,7 @@ library(dplyr)
 library(FactoMineR)
 ```
 
-<h2 id="presentation">Presentation of the data </h2>
+<h2 id="presentation">Présentation des données</h2>
 Les données étudiées sont issus des bilans annuels d'un groupe pétrolier sur la période
 1969 à 1984. Les postes de bilans suivant chaque année sont décrit ci-dessous:
   
@@ -45,9 +45,9 @@ Et elles se présentent sous la forme suivante:
 
 
 
-<h2 id="descriptive">Descriptive statistics</h2>
+<h2 id="descriptive">Statistiques descriptives</h2>
 
-<h2 id="pca">Realization of a PCA</h2>
+<h2 id="pca">Réalisation d'une ACP</h2>
 
 
 <h2 id="sponsors">
