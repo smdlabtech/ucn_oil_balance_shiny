@@ -25,6 +25,25 @@ library(FactoMineR)
 ```
 
 <h2 id="presentation">Presentation of the data </h2>
+Les données étudiées sont issus des bilans annuels d'un groupe pétrolier sur la période
+1969 à 1984. Les postes de bilans suivant chaque année sont décrit ci-dessous:
+  
+  * **_NET_** : Situation nette ; représente l'ensemble des capitaux propres de l'entreprise
+  * **_INT_** : Intérêts ; représente l'ensemble des frais financiers supportés par l'entreprise.
+  * **_SUB_** : Subventions ; représente le montant total des subventions accordées par l'état.
+  * **_LMT_** : Dettes à long et moyen terme.
+  * **_DCT_** : Dettes à court terme.
+  * **_IMM_** : Immobilisations ; représente l'ensemble des terrains et du matériel de l'entreprise.
+  * **_EXP_** : Valeurs d'exploitation.
+  * **_VRD_** : Valeurs réalisables et disponibles ; ensemble des créances à court terme de l'entreprise.
+
+Les données sont de nature quantitatives et ont été ventilées en pourcentage par année, la somme des éléments d'une même
+ligne vaut 100, de manière à éviter les effets dus à l'inflation.
+Et elles se présentent sous la forme suivante:
+
+
+
+
 
 <h2 id="descriptive">Descriptive statistics</h2>
 
