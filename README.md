@@ -41,6 +41,18 @@ Les données sont de nature quantitatives et ont été ventilées en pourcentage
 ligne vaut 100, de manière à éviter les effets dus à l'inflation.
 Et elles se présentent sous la forme suivante:
 
+```{r, echo=FALSE}
+library(FactoMineR)
+#I) Importations, Nettoyages et Validations des donnees
+file="C:/Users/mamad/Dropbox/Alpha_docs/M2_SAAD/SM1/Ana_donnees/DM/Mr_Sesboue/BilanGpePetrolier.csv"
+BD <- read.csv2(file,header = TRUE, sep = ";",stringsAsFactors = FALSE,
+                na.strings = c(""," ","NA","N/A"),row.names=1)
+attach(BD)
+BD
+
+```
+
+
 
 
 
