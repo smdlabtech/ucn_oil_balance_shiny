@@ -49,8 +49,11 @@ BD <- read.csv2(file,header = TRUE, sep = ";",stringsAsFactors = FALSE,
                 na.strings = c(""," ","NA","N/A"),row.names=1)
 attach(BD)
 BD
-
 ```
+
+Dans la suite de notre analyse, nous tenterons d'apporter des éléments de réponse aux questions suivantes:
+  * **_Quelle a été l'évolution de la structure de bilan sur 15 ans ?_**
+  * **_Peut-on mettre en évidence plusieurs périodes ? Si oui, comment se caractérisent-elles ?_**
 
 
 
