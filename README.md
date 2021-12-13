@@ -3,20 +3,20 @@ Les données étudiées sont issues des bilans annuels d'un groupe pétrolier su
 Les postes du bilan qui suivent chaque année sont bien décrits.
 
 L'étude de ce bilan s'est déroulée en trois étapes :
-- Présentation des données --> 
-- Statistiques descriptives --> 
+- Présentation des données
+- Statistiques descriptives
 - Réalisation d'une ACP (Analyse en Composantes Principales) centrée réduite
 
 # Table of contents
 - [installations](#install)
-- [presentation of the data](#presentation)
-- [descriptive statistics](#descriptive)
-- [realization of a PCA](#pca)
-- [realization of a PCA](#sponsors)
+- [présentation des données](#presentation)
+- [statistiques descriptives](#descriptive)
+- [réalisation d'une APC](#pca)
+- [réalisation d'une APC](#sponsors)
 
 
 <h2 id="install">Installations</h2>
-Install the following libraries:
+Installez les librairies suivantes :
 
 ```
 library(knitr)
