@@ -2,11 +2,17 @@
 The data studied are taken from the annual balance sheets of an oil group over the period 1969 to 1984. 
 The balance items following each year are well described.
 
+The study of this balance sheet was carried out in three stages:
+- Presentation of the data --> 
+- Descriptive statistics --> 
+- Realization of a PCA (Principal Component Analysis) centered reduced
+
 # Table of contents
 - [Installations](#install)
-- [Presentation](#steps of analysis)
-- [Descriptive statistics](#steps of analysis)
-- [Realization of a PCA](#steps of analysis)
+- [Presentation of the data](#presentation)
+- [Descriptive statistics](#descriptive)
+- [Realization of a PCA](#pca)
+- [Realization of a PCA](#sponsors)
 
 
 <h2 id="install">Installations</h2>
@@ -18,23 +24,11 @@ library(dplyr)
 library(FactoMineR)
 ```
 
-<h2 id="install">Presentation</h2>
+<h2 id="presentation">Presentation</h2>
 
-The study of this balance sheet was carried out in three stages:
-	Presentation of the data --> Descriptive statistics --> Realization of a PCA (Principal Component Analysis) centered reduced
+<h2 id="descriptive">Descriptive statistics</h2>
 
-
-
-
-- [Descriptive](#steps of analysis)
-<h2 id="install">Installations</h2>
-
-- [PCA](#steps of analysis)
-
-
-
-<h2 id="install">Presentation of the data</h2>
-
+<h2 id="pca">Realization of a PCA</h2>
 
 
 <h2 id="sponsors">
