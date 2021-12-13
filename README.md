@@ -1,10 +1,6 @@
 ---
-title: "Analyse du bilan d'un Groupe Pétrolier de 1969 é 1984"
+title: "Analyse du bilan d'un Groupe Pétrolier de 1969 et 1984"
 author: "Auteur : Daya SMD Lab-Tech"
-date: "Date : 15-05-2021"
-output:
-  html_document: default
-  pdf_document: default
 ---
 
 # Analyse du bilan d'un groupe pétrolier de 1969 à 1984 
