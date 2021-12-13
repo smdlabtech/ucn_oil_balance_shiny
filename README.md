@@ -5,7 +5,7 @@ Les postes du bilan qui suivent chaque année sont bien décrits.
 L'étude de ce bilan s'est déroulée en trois étapes :
 - Présentation des données
 - Statistiques descriptives
-- Réalisation d'une ACP (Analyse en Composantes Principales) centrée réduite
+- Réalisation d'une ACP
 
 # Table des matières
 - [installations](#install)
@@ -47,7 +47,7 @@ Et elles se présentent sous la forme suivante:
 
 <h2 id="descriptive">Statistiques descriptives</h2>
 
-<h2 id="pca">Réalisation d'une ACP</h2>
+<h2 id="pca">Réalisation d'une ACP centrée réduite </h2>
 
 
 <h2 id="sponsors">
