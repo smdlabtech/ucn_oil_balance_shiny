@@ -77,11 +77,11 @@ Ce qui permet de dire qu'il y a plus de 50% des valeurs de chacune de ces variab
 <h2 id="pca">Réalisation d'une ACP centrée réduite </h2>
 
 
-<h2 id="sponsors">
+##<h2 id="sponsors">
 
-Sponsors 🏆
+##Sponsors 🏆
 
-</h2>
+##</h2>
 
 > There are no sponsors yet
 
