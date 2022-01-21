@@ -10,11 +10,11 @@ L'étude de ce bilan s'est déroulée en trois étapes :
 - Réalisation d'une ACP
 
 # Etapes de rélisation
-- [installations](#install)
-- [présentation des données](#presentation)
-- [statistiques descriptives](#descriptive)
-- [réalisation d'une APC](#pca)
-- [réalisation d'une APC](#sponsors)
+- [Installations](#install)
+- [Présentation des données](#presentation)
+- [Statistiques descriptives](#descriptive)
+- [Réalisation d'une APC](#pca)
+- [Réalisation d'une APC](#sponsors)
 
 
 <h2 id="install">Installations</h2>
