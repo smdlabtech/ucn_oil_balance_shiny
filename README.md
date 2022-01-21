@@ -14,7 +14,7 @@ L'étude de ce bilan s'est déroulée en trois étapes :
 - [Présentation des données](#presentation)
 - [Statistiques descriptives](#descriptive)
 - [Réalisation d'une APC](#pca)
-- [Réalisation d'une APC](#sponsors)
+- [Sponsors](#sponsors)
 
 
 <h2 id="install">Installations</h2>
