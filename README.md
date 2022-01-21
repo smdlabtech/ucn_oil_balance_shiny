@@ -83,7 +83,7 @@ Ce qui permet de dire qu'il y a plus de 50% des valeurs de chacune de ces variab
 
 </h2>
 
-> There are no sponsors yet
+> @smdlabtech
 
 
 
