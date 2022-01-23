@@ -5,7 +5,7 @@
 Les données étudiées sont issues des bilans annuels d'un groupe pétrolier sur la période 1969 à 1984.   
 Les postes du bilan qui suivent chaque année y sont bien décrits.  
 
-# Etapes de rélisation
+# Table des matières
 - [Installations](#install)
 - [Présentation des données](#presentation)
 - [Statistiques descriptives](#descriptive)
