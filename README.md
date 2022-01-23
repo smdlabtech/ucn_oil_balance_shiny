@@ -2,9 +2,8 @@
 
 # Analyse du bilan d'un groupe pétrolier de 1969 à 1984 
 Les données étudiées sont issues des bilans annuels d'un groupe pétrolier sur la période 1969 à 1984. 
-Les postes du bilan qui suivent chaque année sont bien décrits.
+Les postes du bilan qui suivent chaque année sont bien décrits.  
 
-L'étude de ce bilan s'est déroulée en trois étapes :  
 # Etapes de rélisation
 - [Installations](#install)
 - [Présentation des données](#presentation)
