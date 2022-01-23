@@ -8,7 +8,7 @@ Les postes du bilan qui suivent chaque année y sont bien décrits.
 - [Installations](#install)
 - [Présentation des données](#presentation)
 - [Statistiques descriptives](#descriptive)
-- [Réalisation d'une APC](#pca)
+- [Réalisation d'une ACP](#pca)
 - [Sponsors](#sponsors)
 
 
