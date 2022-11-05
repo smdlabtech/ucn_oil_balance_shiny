@@ -20,10 +20,6 @@ Installation de packages et chargement :
 install.packages('knitr')
 install.packages('dplyr')
 install.packages('FactoMineR')
-
-library(knitr)
-library(dplyr)
-library(FactoMineR)
 ```
 
 <h2 id="presentation">Présentation des données</h2>
