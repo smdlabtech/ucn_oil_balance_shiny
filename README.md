@@ -77,7 +77,7 @@ Ce qui permet de dire qu'il y a plus de 50% des valeurs de chacune de ces variab
 
 </h2>
 
-> @smdlabtech - **UCN : Université de Caen Normandie**
+> @smdlabtech
 
 
 
