@@ -116,8 +116,6 @@ plot.PCA(pca_result, axes = c(1, 2))
 📧 Contact : smdlabtech@gmail.com  
 
 ---
-
-📌 **Dernière mise à jour** : `YYYY-MM-DD`  
 📜 **Licence** : Open-Source  
 
 ---
